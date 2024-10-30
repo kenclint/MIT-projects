@@ -1,6 +1,5 @@
-This repository contains the code and resources for a Music Recommendation System developed as a capstone project in data science. The goal of this project is to build a system that suggests songs to users based on their listening preferences and behaviors.
+This repository contains the code and resources for several data science projects as defined by the MIT AI data science program. The goal of these projects were to design, structure and test various data science tools. 
 
-Table of Contents
 Project Description
 Features
 Technologies Used
